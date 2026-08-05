@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junteng Liu**, a first-year Ph.D. candidate in Computer Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I am a member of the [HKUST NLP Group](https://hkust-nlp.github.io/) led by Professor Junxian He. I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
+I am **Junteng Liu**, a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the HKUST NLP Group led by Professor Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on **natural language processing** and **machine learning**. My research interests include:
 
@@ -15,23 +15,23 @@ My research focuses on **natural language processing** and **machine learning**.
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
-Education
-======
+## Education
+
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 - Present
 - **B.Eng.**, Shanghai Jiao Tong University, 2020 - 2024
 
-Research Experience
-======
+## Research Experience
+
 - **Research Intern**, MINIMAX, February 2025 - Present
 - **Research Intern**, Tencent WXG, June 2024 - September 2024 (advised by Zifei Shan)
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023 (advised by Prof. Yu Cheng)
 
-Honors and Awards
-======
+## Honors and Awards
+
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-Publications
-======
+## Publications
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 **2025**
@@ -64,8 +64,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.  
   *NeurIPS 2023*.
 
-Contact
-======
+## Contact
+
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
